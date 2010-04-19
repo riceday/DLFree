@@ -1,0 +1,55 @@
+P2P communication library using deadlock-free routing.
+
+Requirements:
+0. Autotools to generate configure scripts and various *.in files.
+
+1. GXP, parellel and distributed shell version 3.0 or above (http://sourceforge.net/projects/gxp/)
+- This is because we rely on the GXP mw command to dispatch processes and do the initial handshaking (endpoint exchange) between all nodes.
+
+2. XML Topology file that describes the topology, bandwidth, and latency between all nodes. This is an unfortunate disadvantage, and future work needs to take place to alleviate this restriction.
+
+However, there is a sample xml file that is sufficient to run on the InTrigger environment (config/intrigger.xml) for the following clusters. This file also contains information sufficient to run on other University of Tokyo computing cluster environments (namely istbs and kototoi clusters)
+
+- chiba
+- okubo
+- mirai
+- keio
+- hongo
+- kototoi
+- istbs
+- suzuk
+- kyoto
+- imade
+- hiro
+- kyushu
+- kobe
+
+For more information on the InTrigger environment. Refer to www.intrigger.jp
+
+Installation:
+In the root directory, run the following command to generate the configure script
+$ autoreconf -i --force
+
+Refer to INSTALL.
+
+Documentation:
+Doxygen documentation can be generated if you run the following command in the root directory.
+$ doxygen Doxyfile
+
+Major user API files are documented for doxygen:
+src/dlfree.c
+src/gxp/gxp.c
+
+Examples:
+Examples are available under app/. Please refer to them for templates on how to use the library.
+
+License:
+Refer to LICENSE.
+
+Contacts:
+
+For any suggestions and/or bug reports, please contact:
+
+Ken Hironaka
+
+kenny@logos.ic.i.u-tokyo.ac.jp

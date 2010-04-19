@@ -1,0 +1,618 @@
+<CLUSTER>
+  <SWITCH bandwidth="-2.0">
+    <SWITCH bandwidth="1525.8">
+      <SWITCH bandwidth="941.3">
+        <NODE bandwidth="524.8" hostname="chiba055" />
+        <SWITCH bandwidth="942.8">
+          <NODE bandwidth="506.0" hostname="chiba000" />
+          <NODE bandwidth="506.0" hostname="chiba001" />
+          <NODE bandwidth="506.0" hostname="chiba002" />
+          <NODE bandwidth="520.0" hostname="chiba003" />
+          <NODE bandwidth="520.0" hostname="chiba004" />
+          <NODE bandwidth="520.0" hostname="chiba006" />
+          <NODE bandwidth="522.6" hostname="chiba007" />
+          <NODE bandwidth="522.6" hostname="chiba008" />
+          <NODE bandwidth="522.6" hostname="chiba009" />
+          <NODE bandwidth="528.5" hostname="chiba010" />
+          <NODE bandwidth="528.5" hostname="chiba011" />
+          <NODE bandwidth="528.5" hostname="chiba013" />
+        </SWITCH>
+        <SWITCH bandwidth="942.8">
+          <NODE bandwidth="525.6" hostname="chiba016" />
+          <NODE bandwidth="525.6" hostname="chiba017" />
+          <NODE bandwidth="525.6" hostname="chiba018" />
+          <NODE bandwidth="519.6" hostname="chiba019" />
+          <NODE bandwidth="519.6" hostname="chiba020" />
+          <NODE bandwidth="519.6" hostname="chiba021" />
+          <NODE bandwidth="522.8" hostname="chiba022" />
+          <NODE bandwidth="522.8" hostname="chiba023" />
+          <NODE bandwidth="522.8" hostname="chiba024" />
+          <NODE bandwidth="522.8" hostname="chiba025" />
+          <NODE bandwidth="522.8" hostname="chiba026" />
+          <NODE bandwidth="522.8" hostname="chiba027" />
+          <NODE bandwidth="522.8" hostname="chiba028" />
+          <NODE bandwidth="522.8" hostname="chiba029" />
+          <NODE bandwidth="522.8" hostname="chiba030" />
+          <NODE bandwidth="520.0" hostname="chiba031" />
+          <NODE bandwidth="520.0" hostname="chiba064" />
+          <NODE bandwidth="520.0" hostname="chiba065" />
+          <NODE bandwidth="520.2" hostname="chiba066" />
+        </SWITCH>
+      </SWITCH>
+      <SWITCH bandwidth="941.3">
+        <NODE bandwidth="936.7" hostname="chiba100" />
+        <NODE bandwidth="936.7" hostname="chiba101" />
+        <NODE bandwidth="936.7" hostname="chiba102" />
+        <NODE bandwidth="904.8" hostname="chiba103" />
+        <NODE bandwidth="904.8" hostname="chiba104" />
+        <NODE bandwidth="904.8" hostname="chiba105" />
+        <NODE bandwidth="911.6" hostname="chiba106" />
+        <NODE bandwidth="911.6" hostname="chiba107" />
+        <NODE bandwidth="911.6" hostname="chiba108" />
+        <NODE bandwidth="900.4" hostname="chiba109" />
+        <NODE bandwidth="900.4" hostname="chiba110" />
+        <NODE bandwidth="900.4" hostname="chiba111" />
+        <NODE bandwidth="908.8" hostname="chiba112" />
+        <NODE bandwidth="908.8" hostname="chiba113" />
+        <NODE bandwidth="908.8" hostname="chiba114" />
+        <NODE bandwidth="936.7" hostname="chiba115" />
+        <NODE bandwidth="883.6" hostname="chiba116" />
+        <NODE bandwidth="936.7" hostname="chiba117" />
+        <NODE bandwidth="892.0" hostname="chiba118" />
+        <NODE bandwidth="939.5" hostname="chiba119" />
+        <NODE bandwidth="939.5" hostname="chiba120" />
+        <NODE bandwidth="894.8" hostname="chiba121" />
+        <NODE bandwidth="894.8" hostname="chiba122" />
+        <NODE bandwidth="894.8" hostname="chiba123" />
+        <NODE bandwidth="933.9" hostname="chiba124" />
+        <NODE bandwidth="883.6" hostname="chiba125" />
+        <NODE bandwidth="933.9" hostname="chiba126" />
+        <NODE bandwidth="936.7" hostname="chiba127" />
+        <NODE bandwidth="864.0" hostname="chiba128" />
+        <NODE bandwidth="936.7" hostname="chiba129" />
+        <NODE bandwidth="908.8" hostname="chiba130" />
+        <NODE bandwidth="908.8" hostname="chiba131" />
+        <NODE bandwidth="908.8" hostname="chiba132" />
+        <NODE bandwidth="939.4" hostname="chiba133" />
+        <NODE bandwidth="880.6" hostname="chiba134" />
+        <NODE bandwidth="939.4" hostname="chiba135" />
+        <NODE bandwidth="936.7" hostname="chiba136" />
+        <NODE bandwidth="936.7" hostname="chiba137" />
+        <NODE bandwidth="936.7" hostname="chiba138" />
+        <NODE bandwidth="936.7" hostname="chiba139" />
+        <NODE bandwidth="936.7" hostname="chiba140" />
+        <NODE bandwidth="936.7" hostname="chiba141" />
+        <NODE bandwidth="920.0" hostname="chiba142" />
+        <NODE bandwidth="920.0" hostname="chiba143" />
+        <NODE bandwidth="920.0" hostname="chiba144" />
+        <NODE bandwidth="914.4" hostname="chiba145" />
+        <NODE bandwidth="914.4" hostname="chiba146" />
+        <NODE bandwidth="914.4" hostname="chiba147" />
+        <NODE bandwidth="920.0" hostname="chiba148" />
+        <NODE bandwidth="920.0" hostname="chiba149" />
+        <NODE bandwidth="920.0" hostname="chiba150" />
+        <NODE bandwidth="922.7" hostname="chiba151" />
+        <NODE bandwidth="922.7" hostname="chiba152" />
+        <NODE bandwidth="922.7" hostname="chiba153" />
+        <NODE bandwidth="936.7" hostname="chiba154" />
+        <NODE bandwidth="869.6" hostname="chiba155" />
+        <NODE bandwidth="936.7" hostname="chiba156" />
+        <NODE bandwidth="942.3" hostname="chiba157" />
+      </SWITCH>
+    </SWITCH>
+    <SWITCH bandwidth="171.6">
+      <NODE bandwidth="936.7" hostname="okubo000" />
+      <NODE bandwidth="936.7" hostname="okubo001" />
+      <NODE bandwidth="936.7" hostname="okubo002" />
+      <NODE bandwidth="936.7" hostname="okubo003" />
+      <NODE bandwidth="867.7" hostname="okubo004" />
+      <NODE bandwidth="936.7" hostname="okubo005" />
+      <NODE bandwidth="948.2" hostname="okubo006" />
+      <NODE bandwidth="864.0" hostname="okubo007" />
+      <NODE bandwidth="948.2" hostname="okubo008" />
+      <NODE bandwidth="933.9" hostname="okubo009" />
+      <NODE bandwidth="879.3" hostname="okubo010" />
+      <NODE bandwidth="933.9" hostname="okubo012" />
+      <NODE bandwidth="936.7" hostname="okubo013" />
+    </SWITCH>
+    <SWITCH bandwidth="78.3">
+      <NODE bandwidth="2290.0" hostname="mirai000" />
+      <NODE bandwidth="2290.0" hostname="mirai001" />
+      <NODE bandwidth="2290.0" hostname="mirai002" />
+      <NODE bandwidth="2290.0" hostname="mirai003" />
+      <NODE bandwidth="2290.0" hostname="mirai004" />
+      <NODE bandwidth="2290.0" hostname="mirai005" />
+    </SWITCH>
+    <SWITCH bandwidth="95.1">
+      <NODE bandwidth="2190.0" hostname="keio000" />
+      <NODE bandwidth="2190.0" hostname="keio001" />
+      <NODE bandwidth="2190.0" hostname="keio002" />
+      <NODE bandwidth="2190.0" hostname="keio003" />
+      <NODE bandwidth="2190.0" hostname="keio004" />
+      <NODE bandwidth="2190.0" hostname="keio005" />
+      <NODE bandwidth="2190.0" hostname="keio006" />
+      <NODE bandwidth="2190.0" hostname="keio007" />
+      <NODE bandwidth="2190.0" hostname="keio008" />
+      <NODE bandwidth="2190.0" hostname="keio009" />
+      <NODE bandwidth="2190.0" hostname="keio010" />
+    </SWITCH>
+    <SWITCH bandwidth="670.2">
+      <SWITCH bandwidth="936.5"> <!-- hongo[[000-113]] -->
+        <SWITCH bandwidth="939.5"> <!-- hongo[[000-019]] -->
+          <NODE bandwidth="522.3" hostname="hongo000"/>
+          <NODE bandwidth="522.3" hostname="hongo001"/>
+          <NODE bandwidth="522.3" hostname="hongo002"/>
+          <NODE bandwidth="522.3" hostname="hongo003"/>
+          <NODE bandwidth="522.3" hostname="hongo004"/>
+          <NODE bandwidth="522.3" hostname="hongo005"/>
+          <NODE bandwidth="522.3" hostname="hongo006"/>
+          <NODE bandwidth="522.3" hostname="hongo007"/>
+          <NODE bandwidth="522.3" hostname="hongo008"/>
+          <NODE bandwidth="522.3" hostname="hongo009"/>
+          <NODE bandwidth="522.3" hostname="hongo010"/>
+          <NODE bandwidth="522.3" hostname="hongo011"/>
+          <NODE bandwidth="522.3" hostname="hongo012"/>
+          <NODE bandwidth="522.3" hostname="hongo013"/>
+          <NODE bandwidth="522.3" hostname="hongo014"/>
+          <NODE bandwidth="522.3" hostname="hongo015"/>
+          <NODE bandwidth="522.3" hostname="hongo016"/>
+          <NODE bandwidth="522.3" hostname="hongo017"/>
+          <NODE bandwidth="522.3" hostname="hongo018"/>
+          <NODE bandwidth="522.3" hostname="hongo019"/>
+	</SWITCH> <!-- hongo[[000-019]] -->
+        <SWITCH bandwidth="939.5"> <!-- hongo[[020-039]] -->
+          <NODE bandwidth="522.3" hostname="hongo020"/>
+          <NODE bandwidth="522.3" hostname="hongo021"/>
+          <NODE bandwidth="522.3" hostname="hongo022"/>
+          <NODE bandwidth="522.3" hostname="hongo023"/>
+          <NODE bandwidth="522.3" hostname="hongo024"/>
+          <NODE bandwidth="522.3" hostname="hongo025"/>
+          <NODE bandwidth="522.3" hostname="hongo026"/>
+          <NODE bandwidth="522.3" hostname="hongo027"/>
+          <NODE bandwidth="522.3" hostname="hongo028"/>
+          <NODE bandwidth="522.3" hostname="hongo029"/>
+          <NODE bandwidth="522.3" hostname="hongo030"/>
+          <NODE bandwidth="522.3" hostname="hongo031"/>
+          <NODE bandwidth="522.3" hostname="hongo032"/>
+          <NODE bandwidth="522.3" hostname="hongo033"/>
+          <NODE bandwidth="522.3" hostname="hongo034"/>
+          <NODE bandwidth="522.3" hostname="hongo035"/>
+          <NODE bandwidth="522.3" hostname="hongo036"/>
+          <NODE bandwidth="522.3" hostname="hongo037"/>
+          <NODE bandwidth="522.3" hostname="hongo038"/>
+          <NODE bandwidth="522.3" hostname="hongo039"/>
+	</SWITCH> <!-- hongo[[020-039]] -->
+        <SWITCH bandwidth="939.5"> <!-- hongo[[100-113]] -->
+          <NODE bandwidth="936.7" hostname="hongo100"/>
+          <NODE bandwidth="936.7" hostname="hongo101"/>
+          <NODE bandwidth="936.7" hostname="hongo102"/>
+          <NODE bandwidth="930.9" hostname="hongo103"/>
+          <NODE bandwidth="930.9" hostname="hongo104"/>
+          <NODE bandwidth="930.9" hostname="hongo105"/>
+          <NODE bandwidth="936.7" hostname="hongo106"/>
+          <NODE bandwidth="936.7" hostname="hongo107"/>
+          <NODE bandwidth="936.7" hostname="hongo108"/>
+          <NODE bandwidth="936.7" hostname="hongo109"/>
+          <NODE bandwidth="936.7" hostname="hongo110"/>
+          <NODE bandwidth="936.7" hostname="hongo111"/>
+          <NODE bandwidth="939.5" hostname="hongo112"/>
+          <NODE bandwidth="936.7" hostname="hongo113"/>
+        </SWITCH> <!-- hongo[[100-113]] -->
+      </SWITCH> <!-- hongo[[000-113]] -->
+      <SWITCH bandwidth="939.7"> <!-- kototoi[[000-021]] -->
+        <NODE bandwidth="939.7" hostname="kototoi000"/>
+        <NODE bandwidth="939.7" hostname="kototoi001"/>
+        <NODE bandwidth="939.7" hostname="kototoi002"/>
+        <NODE bandwidth="939.7" hostname="kototoi003"/>
+        <NODE bandwidth="939.7" hostname="kototoi004"/>
+        <NODE bandwidth="939.7" hostname="kototoi005"/>
+        <NODE bandwidth="939.7" hostname="kototoi006"/>
+        <NODE bandwidth="939.7" hostname="kototoi007"/>
+        <NODE bandwidth="939.7" hostname="kototoi008"/>
+        <NODE bandwidth="939.7" hostname="kototoi009"/>
+        <NODE bandwidth="939.7" hostname="kototoi010"/>
+        <NODE bandwidth="939.7" hostname="kototoi011"/>
+        <NODE bandwidth="939.7" hostname="kototoi012"/>
+        <NODE bandwidth="939.7" hostname="kototoi013"/>
+        <NODE bandwidth="939.7" hostname="kototoi014"/>
+        <NODE bandwidth="939.7" hostname="kototoi015"/>
+        <NODE bandwidth="939.7" hostname="kototoi016"/>
+        <NODE bandwidth="939.7" hostname="kototoi017"/>
+        <NODE bandwidth="939.7" hostname="kototoi018"/>
+        <NODE bandwidth="939.7" hostname="kototoi019"/>
+        <NODE bandwidth="939.7" hostname="kototoi020"/>
+        <NODE bandwidth="939.7" hostname="kototoi021"/>
+      </SWITCH> <!-- kototoi[[000-021]] -->
+      <SWITCH bandwidth="2128.2" range="1" weight="2">
+        <SWITCH bandwidth="2335.6" range="1" weight="2">
+          <NODE bandwidth="950.0" hostname="istbs000" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs001" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs002" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs003" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs004" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs005" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs006" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs007" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs008" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs009" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs010" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs011" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs012" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs013" range="-1" weight="43"/>
+        </SWITCH>
+        <SWITCH bandwidth="3101.4" range="1" weight="2">
+          <NODE bandwidth="950.0" hostname="istbs014" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs015" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs016" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs017" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs018" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs019" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs020" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs021" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs022" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs023" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs024" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs025" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs026" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs027" range="-1" weight="43"/>
+        </SWITCH>
+        <SWITCH bandwidth="2243.6" range="1" weight="2">
+          <NODE bandwidth="950.0" hostname="istbs028" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs029" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs030" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs031" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs032" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs033" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs034" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs035" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs036" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs037" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs038" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs039" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs040" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs041" range="-1" weight="43"/>
+        </SWITCH>
+        <SWITCH bandwidth="2489.5" range="1" weight="2">
+          <NODE bandwidth="950.0" hostname="istbs042" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs043" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs044" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs045" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs046" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs047" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs048" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs049" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs050" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs051" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs052" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs053" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs054" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs055" range="-1" weight="43"/>
+        </SWITCH>
+        <SWITCH bandwidth="3306.3" range="1" weight="2">
+          <NODE bandwidth="950.0" hostname="istbs056" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs057" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs058" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs059" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs060" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs061" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs062" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs063" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs064" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs065" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs066" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs067" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs068" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs069" range="-1" weight="43"/>
+        </SWITCH>
+      </SWITCH>
+      <SWITCH bandwidth="2719.8" range="1" weight="2">
+        <SWITCH bandwidth="2809.2" range="1" weight="2">
+          <NODE bandwidth="950.0" hostname="istbs070" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs071" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs072" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs073" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs074" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs075" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs076" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs077" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs078" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs079" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs080" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs081" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs082" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs083" range="-1" weight="43"/>
+        </SWITCH>
+        <SWITCH bandwidth="2413.2" range="1" weight="2">
+          <NODE bandwidth="950.0" hostname="istbs084" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs085" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs086" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs087" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs088" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs089" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs090" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs091" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs092" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs093" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs094" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs095" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs096" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs097" range="-1" weight="43"/>
+        </SWITCH>
+        <SWITCH bandwidth="2809.2" range="1" weight="2">
+          <NODE bandwidth="950.0" hostname="istbs098" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs099" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs100" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs101" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs102" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs103" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs104" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs105" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs106" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs107" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs108" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs109" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs110" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs111" range="-1" weight="43"/>
+        </SWITCH>
+      </SWITCH>
+      <SWITCH bandwidth="2044.3" range="1" weight="2">
+        <SWITCH bandwidth="2823.6" range="1" weight="2">
+          <NODE bandwidth="950.0" hostname="istbs112" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs113" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs114" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs115" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs116" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs117" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs118" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs119" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs120" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs121" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs122" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs123" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs124" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs125" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs126" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs127" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs128" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs129" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs130" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs131" range="-1" weight="43"/>
+        </SWITCH>
+        <SWITCH bandwidth="1885.5" range="1" weight="2">
+          <NODE bandwidth="950.0" hostname="istbs132" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs133" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs134" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs135" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs136" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs137" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs138" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs139" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs140" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs141" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs142" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs143" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs144" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs145" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs146" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs147" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs148" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs149" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs150" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs151" range="-1" weight="43"/>
+        </SWITCH>
+        <SWITCH bandwidth="2482.3" range="1" weight="2">
+          <NODE bandwidth="950.0" hostname="istbs152" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs153" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs154" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs155" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs156" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs157" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs158" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs159" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs160" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs161" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs162" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs163" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs164" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs165" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs166" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs167" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs168" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs169" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs170" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs171" range="-1" weight="43"/>
+        </SWITCH>
+        <SWITCH bandwidth="2819.7" range="1" weight="2">
+          <NODE bandwidth="950.0" hostname="istbs172" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs173" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs174" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs175" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs176" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs177" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs178" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs179" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs180" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs181" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs182" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs183" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs184" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs185" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs186" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs187" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs188" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs189" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs190" range="-1" weight="43"/>
+          <NODE bandwidth="950.0" hostname="istbs191" range="-1" weight="43"/>
+        </SWITCH>
+      </SWITCH>
+    </SWITCH>
+    <SWITCH bandwidth="670.2">
+      <NODE bandwidth="917.2" hostname="suzuk000" />
+      <NODE bandwidth="917.2" hostname="suzuk001" />
+      <NODE bandwidth="917.2" hostname="suzuk002" />
+      <NODE bandwidth="936.7" hostname="suzuk003" />
+      <NODE bandwidth="913.7" hostname="suzuk004" />
+      <NODE bandwidth="936.7" hostname="suzuk005" />
+      <NODE bandwidth="936.7" hostname="suzuk006" />
+      <NODE bandwidth="936.7" hostname="suzuk007" />
+      <NODE bandwidth="936.7" hostname="suzuk008" />
+      <NODE bandwidth="933.9" hostname="suzuk009" />
+      <NODE bandwidth="933.9" hostname="suzuk010" />
+      <NODE bandwidth="933.9" hostname="suzuk011" />
+      <NODE bandwidth="925.5" hostname="suzuk012" />
+      <NODE bandwidth="925.5" hostname="suzuk013" />
+      <NODE bandwidth="925.5" hostname="suzuk014" />
+      <NODE bandwidth="933.9" hostname="suzuk015" />
+      <NODE bandwidth="933.9" hostname="suzuk016" />
+      <NODE bandwidth="933.9" hostname="suzuk017" />
+      <NODE bandwidth="936.7" hostname="suzuk018" />
+      <NODE bandwidth="936.7" hostname="suzuk019" />
+      <NODE bandwidth="936.7" hostname="suzuk020" />
+      <NODE bandwidth="900.4" hostname="suzuk021" />
+      <NODE bandwidth="900.4" hostname="suzuk022" />
+      <NODE bandwidth="900.4" hostname="suzuk023" />
+      <NODE bandwidth="894.8" hostname="suzuk024" />
+      <NODE bandwidth="894.8" hostname="suzuk025" />
+      <NODE bandwidth="894.8" hostname="suzuk026" />
+      <NODE bandwidth="922.7" hostname="suzuk027" />
+      <NODE bandwidth="922.7" hostname="suzuk028" />
+      <NODE bandwidth="922.7" hostname="suzuk029" />
+      <NODE bandwidth="917.2" hostname="suzuk030" />
+      <NODE bandwidth="917.2" hostname="suzuk031" />
+      <NODE bandwidth="917.2" hostname="suzuk032" />
+      <NODE bandwidth="945.9" hostname="suzuk033" />
+      <NODE bandwidth="945.9" hostname="suzuk034" />
+      <NODE bandwidth="945.9" hostname="suzuk035" />
+    </SWITCH>
+    <SWITCH bandwidth="91.7">
+      <SWITCH bandwidth="335.5">
+        <SWITCH bandwidth="290.7">
+          <NODE bandwidth="936.7" hostname="kyoto000" />
+          <NODE bandwidth="936.7" hostname="kyoto002" />
+          <NODE bandwidth="936.7" hostname="kyoto003" />
+          <NODE bandwidth="936.7" hostname="kyoto004" />
+          <NODE bandwidth="936.7" hostname="kyoto005" />
+          <NODE bandwidth="936.7" hostname="kyoto006" />
+          <NODE bandwidth="931.1" hostname="kyoto007" />
+          <NODE bandwidth="866.8" hostname="kyoto008" />
+          <NODE bandwidth="931.1" hostname="kyoto009" />
+          <NODE bandwidth="933.9" hostname="kyoto010" />
+          <NODE bandwidth="864.0" hostname="kyoto011" />
+          <NODE bandwidth="933.9" hostname="kyoto012" />
+          <NODE bandwidth="944.1" hostname="kyoto013" />
+          <NODE bandwidth="944.1" hostname="kyoto014" />
+          <NODE bandwidth="944.1" hostname="kyoto018" />
+          <NODE bandwidth="939.7" hostname="kyoto019" />
+          <NODE bandwidth="939.7" hostname="kyoto022" />
+          <NODE bandwidth="939.7" hostname="kyoto023" />
+          <NODE bandwidth="942.5" hostname="kyoto024" />
+          <NODE bandwidth="942.5" hostname="kyoto025" />
+          <NODE bandwidth="942.5" hostname="kyoto026" />
+          <NODE bandwidth="936.7" hostname="kyoto027" />
+          <NODE bandwidth="861.2" hostname="kyoto028" />
+          <NODE bandwidth="936.7" hostname="kyoto029" />
+          <NODE bandwidth="943.7" hostname="kyoto030" />
+          <NODE bandwidth="943.7" hostname="kyoto031" />
+          <NODE bandwidth="869.6" hostname="kyoto032" />
+          <NODE bandwidth="936.7" hostname="kyoto033" />
+          <NODE bandwidth="939.5" hostname="kyoto034" />
+        </SWITCH>
+        <SWITCH bandwidth="290.7">
+          <NODE bandwidth="936.7" hostname="imade000" />
+          <NODE bandwidth="864.0" hostname="imade001" />
+          <NODE bandwidth="936.7" hostname="imade002" />
+          <NODE bandwidth="933.9" hostname="imade003" />
+          <NODE bandwidth="933.9" hostname="imade004" />
+          <NODE bandwidth="933.9" hostname="imade005" />
+          <NODE bandwidth="931.1" hostname="imade006" />
+          <NODE bandwidth="931.1" hostname="imade007" />
+          <NODE bandwidth="931.1" hostname="imade008" />
+          <NODE bandwidth="933.9" hostname="imade009" />
+          <NODE bandwidth="933.9" hostname="imade010" />
+          <NODE bandwidth="821.3" hostname="imade011" />
+          <NODE bandwidth="936.7" hostname="imade012" />
+          <NODE bandwidth="936.7" hostname="imade013" />
+          <NODE bandwidth="936.7" hostname="imade014" />
+          <NODE bandwidth="939.5" hostname="imade015" />
+          <NODE bandwidth="869.6" hostname="imade016" />
+          <NODE bandwidth="939.5" hostname="imade017" />
+          <NODE bandwidth="931.1" hostname="imade018" />
+          <NODE bandwidth="931.1" hostname="imade019" />
+          <NODE bandwidth="931.1" hostname="imade020" />
+          <NODE bandwidth="933.9" hostname="imade021" />
+          <NODE bandwidth="933.9" hostname="imade022" />
+          <NODE bandwidth="933.9" hostname="imade023" />
+          <NODE bandwidth="911.6" hostname="imade024" />
+          <NODE bandwidth="911.6" hostname="imade025" />
+          <NODE bandwidth="911.6" hostname="imade026" />
+          <NODE bandwidth="939.5" hostname="imade027" />
+          <NODE bandwidth="939.5" hostname="imade028" />
+          <NODE bandwidth="939.5" hostname="imade029" />
+        </SWITCH>
+      </SWITCH>
+      <SWITCH bandwidth="387.0">
+        <SWITCH bandwidth="294.4">
+          <NODE bandwidth="2170.0" hostname="hiro000" />
+          <NODE bandwidth="2170.0" hostname="hiro001" />
+          <NODE bandwidth="2170.0" hostname="hiro002" />
+          <NODE bandwidth="2170.0" hostname="hiro003" />
+          <NODE bandwidth="2170.0" hostname="hiro004" />
+          <NODE bandwidth="2170.0" hostname="hiro005" />
+          <NODE bandwidth="2170.0" hostname="hiro006" />
+          <NODE bandwidth="2170.0" hostname="hiro007" />
+          <NODE bandwidth="2170.0" hostname="hiro008" />
+          <NODE bandwidth="2170.0" hostname="hiro009" />
+          <NODE bandwidth="2170.0" hostname="hiro010" />
+        </SWITCH>
+        <SWITCH bandwidth="294.4">
+          <NODE bandwidth="1950.0" hostname="kyushu000" />
+          <NODE bandwidth="1950.0" hostname="kyushu001" />
+          <NODE bandwidth="1950.0" hostname="kyushu002" />
+          <NODE bandwidth="1950.0" hostname="kyushu003" />
+          <NODE bandwidth="1950.0" hostname="kyushu004" />
+          <NODE bandwidth="1950.0" hostname="kyushu005" />
+          <NODE bandwidth="1950.0" hostname="kyushu006" />
+          <NODE bandwidth="1950.0" hostname="kyushu007" />
+          <NODE bandwidth="1950.0" hostname="kyushu008" />
+          <NODE bandwidth="1950.0" hostname="kyushu009" />
+        </SWITCH>
+      </SWITCH>
+      <SWITCH bandwidth="184.4">
+        <NODE bandwidth="1910.0" hostname="kobe000" />
+        <NODE bandwidth="1910.0" hostname="kobe001" />
+        <NODE bandwidth="1910.0" hostname="kobe002" />
+        <NODE bandwidth="1910.0" hostname="kobe003" />
+        <NODE bandwidth="1910.0" hostname="kobe004" />
+        <NODE bandwidth="1910.0" hostname="kobe005" />
+        <NODE bandwidth="1910.0" hostname="kobe006" />
+        <NODE bandwidth="1910.0" hostname="kobe007" />
+        <NODE bandwidth="1910.0" hostname="kobe008" />
+        <NODE bandwidth="1910.0" hostname="kobe009" />
+        <NODE bandwidth="1910.0" hostname="kobe010" />
+      </SWITCH>
+        <SWITCH bandwidth="942.8">
+          <NODE bandwidth="506.0" hostname="a269" />
+          <NODE bandwidth="506.0" hostname="a270" />
+          <NODE bandwidth="506.0" hostname="a285" />
+          <NODE bandwidth="506.0" hostname="a282" />
+          <NODE bandwidth="506.0" hostname="a283" />
+          <NODE bandwidth="506.0" hostname="a284" />
+          <NODE bandwidth="506.0" hostname="a290" />
+          <NODE bandwidth="506.0" hostname="a278" />
+          <NODE bandwidth="506.0" hostname="a313" />
+          <NODE bandwidth="506.0" hostname="a314" />
+          <NODE bandwidth="506.0" hostname="a345" />
+          <NODE bandwidth="506.0" hostname="a348" />
+          <NODE bandwidth="506.0" hostname="a349" />
+          <NODE bandwidth="506.0" hostname="a367" />
+          <NODE bandwidth="506.0" hostname="a368" />
+          <NODE bandwidth="506.0" hostname="a369" />
+          <NODE bandwidth="506.0" hostname="a370" />
+          <NODE bandwidth="506.0" hostname="a371" />
+          <NODE bandwidth="506.0" hostname="a372" />
+          <NODE bandwidth="506.0" hostname="a373" />
+          <NODE bandwidth="506.0" hostname="a374" />
+        </SWITCH>
+    </SWITCH>
+  </SWITCH>
+</CLUSTER>
